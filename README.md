@@ -21,7 +21,6 @@ Dillinger uses a number of open source projects to work properly:
 
 * [TLSR8269](http://wiki.telink-semi.cn/doc/ds/PB_TLSR8269F512-E_Product%20Brief%20for%20Telink%20BLE%20%2B%20IEEE802.15.4%20Multi-Standard%20Wireless%20SoC%20TLSR8269F512.pdf) - The TLSR8269 is Telink-developed BLE + IEEE802.15.4 multi-standard wireless SoC solution.
 The TLSR8269 supports standards and industrial alliance specifications including Bluetooth Smart (BLE4.0 and BLE4.2), BLE Mesh, 6LoWPAN, Thread, Zigbee, RF4CE, HomeKit and 2.4GHz proprietary protocols.
-
 For some use cases, the TLSR8269 supports concurrent multi-standards in which stacks like RF4CE and BLE can run simultaneously.
 
 
