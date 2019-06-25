@@ -15,15 +15,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Dillinger uses a number of open source projects to work properly:
 
-* [AngularJS] - HTML enhanced for web apps!
-* [Ace Editor] - awesome web-based text editor
-* [markdown-it] - Markdown parser done right. Fast and easy to extend.
-* [Twitter Bootstrap] - great UI boilerplate for modern web apps
-* [node.js] - evented I/O for the backend
-* [Express] - fast node.js network app framework [@tjholowaychuk]
-* [Gulp] - the streaming build system
-* [Breakdance](http://breakdance.io) - HTML to Markdown converter
-* [jQuery] - duh
+* [TLSR8232](http://wiki.telink-semi.cn/doc/ds/DS_TLSR8232-E_Datasheet%20for%20Telink%20BLE%20SoC%20TLSR8232.pdf) - The TLSR8232 is Telink-developed BLE SoC solution, which is Bluetooth 4.2 fully standard compliant to allow easy connectivity with Bluetooth Smart Ready mobile phones, tablets, laptops. The TLSR8232 supports BLE slave and master mode operations. It also supports BLE 5.0 2Mbps mode and long packet length.
+
+* [TLSR8258](http://wiki.telink-semi.cn/doc/ds/PB_TLSR8258-E_Product%20Brief%20for%20Telink%20BLE%20IEEE802.15.4%20Multi-Standard%20Wireless%20SoC%20TLSR8258.pdf) - The TLSR8258 with internal Flash and audio support combines the features and functions needed for all 2.4GHz IoT standards into a single SoC. It supports standards and industrial alliance specifications including Bluetooth Low Energy (up to Bluetooth LE 5.0, with up to 8 antenna indoor positioning support), BLE Mesh, Zigbee, RF4CE, HomeKit, 6LoWPAN, Thread, ANT and 2.4GHz proprietary standard. For some use cases, the TLSR8258 supports concurrent multi-standards.
+
+* [TLSR8269](http://wiki.telink-semi.cn/doc/ds/PB_TLSR8269F512-E_Product%20Brief%20for%20Telink%20BLE%20%2B%20IEEE802.15.4%20Multi-Standard%20Wireless%20SoC%20TLSR8269F512.pdf) - The TLSR8269 is Telink-developed BLE + IEEE802.15.4 multi-standard wireless SoC solution.
+The TLSR8269 supports standards and industrial alliance specifications including Bluetooth Smart (BLE4.0 and BLE4.2), BLE Mesh, 6LoWPAN, Thread, Zigbee, RF4CE, HomeKit and 2.4GHz proprietary protocols.
+
+For some use cases, the TLSR8269 supports concurrent multi-standards in which stacks like RF4CE and BLE can run simultaneously.
 
 
 ### Installation
